@@ -1,4 +1,4 @@
-# Time-Series-Analysis-for-Turnover-
+# Time-Series-Analysis-for-Turnover
 Time Series Analysis for Turnover of industries in Australia
 
 This notebook is a summary of common time series analysis methods used to forecast turnover of all industries in Australia(retail.xlsx).
